@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://bulatkhabaleev.github.io/sitemap.xml
+Sitemap: https://bulatkhambaleev.github.io/sitemap.xml
