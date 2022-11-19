@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Blog</title>
+    <link>https://bulatkhambaleev.github.io/en/post/</link>
+      <atom:link href="https://bulatkhambaleev.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bulatkhambaleev.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://bulatkhambaleev.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Last week 3</title>
+      <link>https://bulatkhambaleev.github.io/en/post/week_3/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://bulatkhambaleev.github.io/en/post/week_3/</guid>
+      <description>&lt;h2 id=&#34;last-week&#34;&gt;Last week&lt;/h2&gt;
+&lt;p&gt;During the past week, a lot of interesting and unexpected things happened to me.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I received an extension of my internship at my job for an additional three months (very happy).&lt;/li&gt;
+&lt;li&gt;Performed laboratory work on the disciplines &amp;ldquo;Modeling of wireless networks&amp;rdquo;, &amp;ldquo;Scientific programming&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Continued learning German. So far, it is very difficult, but I will try and make more efforts.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;See you in the next post. Bye everyone!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparation of laboratory work.</title>
+      <link>https://bulatkhambaleev.github.io/en/post/report/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://bulatkhambaleev.github.io/en/post/report/</guid>
+      <description>&lt;p&gt;Laboratory work and reports on them are drawn up not according to methodological instructions, but to the requirements of GOST. It is assumed that there is a theoretical part and a research work with an addition in the form of graphs, codes when using a computer and tables with data entered before and after the experiment. Such works are not uncommon in the specialties of exact and applied sciences, psychology and psychopedagogy - participants in surveys and tests are &amp;ldquo;placed&amp;rdquo; directly in laboratory conditions.&lt;/p&gt;
+&lt;h3 id=&#34;scientific-report&#34;&gt;Scientific report&lt;/h3&gt;
+&lt;p&gt;During the course of the study, all data and changes, errors and deviations of the results are recorded. This is necessary to analyze the dynamics of the purity of the experiment. For example, in a physical or biochemical experiment, some data parameters are recorded on electronic media for the convenience of laboratory work. Fixations create links to other fixations, forming a development log graph. You can revert code to a previous commit, check how files have changed from one commit to the next, and view details about where and when changes were made. Commits are identified in Git by a unique cryptographic hash of the contents of the commit. Because everything is hashed, it&amp;rsquo;s impossible to make changes, lose information, or corrupt files without Git detection. Version control systems can also provide additional, more flexible functionality. For example, they can support working with multiple versions of the same file, keeping a common change history up to the version branch point and each branch&amp;rsquo;s own change history. In addition, information is usually available about which of the participants, when and what changes were made. Typically, this kind of information is stored in a change log, access to which can be restricted. Unlike classical ones, in distributed version control systems, the central repository is not required.&lt;/p&gt;
+&lt;h3 id=&#34;title-page-layout&#34;&gt;Title page layout&lt;/h3&gt;
+&lt;p&gt;The following are the goals and objectives. For example, if it is necessary to carry out a calculation with the initial data, tasks are written indicating the options. Below is the rationale for what the experiment is conducted and what it is designed for.&lt;/p&gt;
+&lt;h3 id=&#34;technical-equipment&#34;&gt;Technical equipment&lt;/h3&gt;
+&lt;p&gt;With each new experience, the conditions can change within the same work. Therefore, any technical points should be accompanied by paragraphs indicating the progress of work. For example, aggregates are first prepared, then a good ratio of chemical elements is chosen. The method and method of influence are described, the result is recorded - what happened, was discovered or noticed. All data is entered into tables.&lt;/p&gt;
+&lt;h3 id=&#34;results-of-experiments-and-experimental-studies&#34;&gt;Results of experiments and experimental studies&lt;/h3&gt;
+&lt;p&gt;The results are duplicated at the end of the research column. If theoretical aspects were given in the main part, after which the condition for starting work is given, then the student is obliged to present the final result with conclusions in the conclusion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week №2</title>
+      <link>https://bulatkhambaleev.github.io/en/post/jupyter/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://bulatkhambaleev.github.io/en/post/jupyter/</guid>
+      <description>&lt;h2 id=&#34;прошедшая-неделя&#34;&gt;Прошедшая неделя&lt;/h2&gt;
+&lt;p&gt;During the past week, a lot of interesting and unexpected things happened to me.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I moved to a new job. It&amp;rsquo;s generally very pleasant there.&lt;/li&gt;
+&lt;li&gt;Performed laboratory work on the disciplines &amp;ldquo;Modeling of wireless networks&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;And I also had a birthday. Congratulations please!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;See you in the next post. Bye everyone!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown.</title>
+      <link>https://bulatkhambaleev.github.io/en/post/writing-technical-content/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://bulatkhambaleev.github.io/en/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Markdown is a lightweight markup language designed to indicate formatting in plain text while maintaining human readability as much as possible, and suitable for machine translation into advanced publishing languages.&lt;/p&gt;
+&lt;h3 id=&#34;history&#34;&gt;History&lt;/h3&gt;
+&lt;p&gt;Originally created in 2004 by John Gruber and Aaron Schwartz. Many language ideas have been borrowed from existing text markup conventions in emails. Markdown language implementations convert Markdown text to valid, well-formed XHTML and replace left angle brackets (&amp;quot;&amp;lt;&amp;quot;) and ampersands (&amp;quot;&amp;amp;&amp;quot;) with the appropriate entity codes. The first implementation of Markdown was Gruber&amp;rsquo;s Perl implementation, but after a while, many third-party implementations appeared. The Perl implementation is distributed under a BSD type license. Implementations of Markdown in various programming languages ​​are included (or available as a plugin) in many content management systems. Commits create links to other commits, forming a development log graph. You can revert code to a previous commit, check how files have changed from one commit to the next, and view details about where and when changes were made. Commits are identified in Git by a unique cryptographic hash of the contents of the commit. Because everything is hashed, it&amp;rsquo;s impossible to make changes, lose information, or corrupt files without Git detection. Version control systems can also provide additional, more flexible functionality. For example, they can support working with multiple versions of the same file, keeping a common change history up to the version branch point and each branch&amp;rsquo;s own change history. In addition, information is usually available about which of the participants, when and what changes were made. Typically, this kind of information is stored in a change log, access to which can be restricted. Unlike classical ones, in distributed version control systems, the central repository is not required.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git. Version control.</title>
+      <link>https://bulatkhambaleev.github.io/en/post/markdown/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://bulatkhambaleev.github.io/en/post/markdown/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Git&lt;/strong&gt; (pronounced &amp;ldquo;git&amp;rdquo;) is a distributed version control system. The project was created by Linus Torvalds to manage the development of the Linux kernel, the first version was released on April 7, 2005. To date, he is supported by Junio Hamano.&lt;/p&gt;
+&lt;h3 id=&#34;git-basics&#34;&gt;Git Basics&lt;/h3&gt;
+&lt;p&gt;Every time you save your work, Git creates a commit. A commit is a snapshot of all files at a particular point in time. If a file has not changed from one commit to the next, Git uses the previously saved file. This design is different from other systems that keep the initial version of the file and keep a record of changes over time.
+Commits create links to other commits, forming a development log graph. You can revert code to a previous commit, check how files have changed from one commit to the next, and view details about where and when changes were made. Commits are identified in Git by a unique cryptographic hash of the contents of the commit. Because everything is hashed, it&amp;rsquo;s impossible to make changes, lose information, or corrupt files without Git detection. Version control systems can also provide additional, more flexible functionality. For example, they can support working with multiple versions of the same file, keeping a common change history up to the version branch point and each branch&amp;rsquo;s own change history. In addition, information is usually available about which of the participants, when and what changes were made. Typically, this kind of information is stored in a change log, access to which can be restricted. Unlike classical ones, in distributed version control systems, the central repository is not required.&lt;/p&gt;
+&lt;h3 id=&#34;branches&#34;&gt;Branches&lt;/h3&gt;
+&lt;p&gt;Each developer saves changes to their own local code repository. As a result, there can be many different changes based on a single commit. Git provides the means to isolate changes and then merge them. Branches, which are simplified pointers for doing work, govern this division. After the work created on a branch is completed, that branch can be merged back into the team&amp;rsquo;s main branch (or trunk).&lt;/p&gt;
+&lt;h3 id=&#34;files-and-commits&#34;&gt;Files and commits&lt;/h3&gt;
+&lt;p&gt;Files in Git are in one of three states: modified, intermediate, or committed. The first time a file is modified, the changes only exist in the working directory. They are not yet part of the commit or development history. The developer must prepare the modified files for inclusion in the commit. The staging area contains all the changes that need to be included in the next commit. When the developer is happy with the intermediate files, the files are packaged as a commit with a message describing the changes. This commit becomes part of the development history.&lt;/p&gt;
+&lt;p&gt;Staging allows developers to select changes to files to store in a commit, in order to break large changes into a series of smaller commits. By reducing the scope of commits, it is easier to look through the commit log to find specific changes in a file.&lt;/p&gt;
+&lt;h3 id=&#34;git--is-not-github&#34;&gt;Git — is not GitHub&lt;/h3&gt;
+&lt;p&gt;Git is a program that needs to be installed and connected to a project in order to manage the version control system. GitHub is a repository site for project version histories: you connect Git, register on GitHub, create an online repository, and transfer files from Git to GitHub.&lt;/p&gt;
+&lt;p&gt;Git is the most popular version control system and GitHub is an online code repository. Git and GitHub are designed to work together and are therefore often used as a single mechanism for working with a project.&lt;/p&gt;
+&lt;p&gt;If needed, Git can be replaced with an alternative version control program, and GitHub with another online code repository. Most employers don&amp;rsquo;t need this, as familiarity with other services is time-consuming and inconvenient for many developers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
+      <link>https://bulatkhambaleev.github.io/en/post/getting-started/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://bulatkhambaleev.github.io/en/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;прошедшая-неделя&#34;&gt;Прошедшая неделя&lt;/h2&gt;
+&lt;p&gt;During the past week, a lot of interesting and unexpected things happened to me.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I received an extension of my internship at my job for an additional three months (very happy).&lt;/li&gt;
+&lt;li&gt;Performed laboratory work on the disciplines &amp;ldquo;Modeling of wireless networks&amp;rdquo;, &amp;ldquo;Scientific programming&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Continued learning German. So far, it is very difficult, but I will try and make more efforts.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;See you in the next post. Bye everyone!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

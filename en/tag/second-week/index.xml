@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Second week | Blog</title>
+    <link>https://bulatkhambaleev.github.io/en/tag/second-week/</link>
+      <atom:link href="https://bulatkhambaleev.github.io/en/tag/second-week/index.xml" rel="self" type="application/rss+xml" />
+    <description>Second week</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bulatkhambaleev.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Second week</title>
+      <link>https://bulatkhambaleev.github.io/en/tag/second-week/</link>
+    </image>
+    
+    <item>
+      <title>Last week №2</title>
+      <link>https://bulatkhambaleev.github.io/en/post/jupyter/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://bulatkhambaleev.github.io/en/post/jupyter/</guid>
+      <description>&lt;h2 id=&#34;прошедшая-неделя&#34;&gt;Прошедшая неделя&lt;/h2&gt;
+&lt;p&gt;During the past week, a lot of interesting and unexpected things happened to me.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I moved to a new job. It&amp;rsquo;s generally very pleasant there.&lt;/li&gt;
+&lt;li&gt;Performed laboratory work on the disciplines &amp;ldquo;Modeling of wireless networks&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;And I also had a birthday. Congratulations please!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;See you in the next post. Bye everyone!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
